@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moyet
-- 👀 I’m interested in Python ang Clojure
+- 👀 I’m interested in Python and Clojure
 - 🌱 I’m currently learning Clojure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
